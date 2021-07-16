@@ -28,10 +28,11 @@ This application is covered by the MIT license.
 
 ## Questions
 ✋ Contact Me!!<br />
+
 ## Video Demonstrations
-Initial setup video [Youtube](https://youtu.be/UNMTvzpEhLc)
-Run through of the API [Youtube](https://youtu.be/U3gL8kraVSI)
-Run through of Insomnia [Youtube](https://youtu.be/tutk02rtekY)
+Initial setup video [Youtube](https://youtu.be/UNMTvzpEhLc)<br>
+Run through of the API [Youtube](https://youtu.be/U3gL8kraVSI)<br>
+Run through of Insomnia [Youtube](https://youtu.be/tutk02rtekY)<br>
 <br />
 :octocat: Find me on GitHub: [Gimbalbyte](https://github.com/Gimbalbyte)<br />
 <br />
